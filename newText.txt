@@ -1,1 +1,1 @@
-hello this is from master.
+hello this is from b2.
